@@ -419,10 +419,11 @@ permanent release archive.
 
 ### Publish to PyPI
 
-Release-triggered PyPI publishing is enabled and was used for
-[v0.4.0, the first GROVE release](https://pypi.org/project/glance-grove/0.4.0/).
-The publisher uses Trusted Publishing for `knutzk/glance-grove`, workflow
-`publish-pypi.yml`, environment `pypi`, and PyPI project `glance-grove`.
+Release-triggered publishing to the
+[glance-grove PyPI project](https://pypi.org/project/glance-grove/) has been in
+use since v0.4.0, the first GROVE release. The publisher uses Trusted
+Publishing for `knutzk/glance-grove`, workflow `publish-pypi.yml`, environment
+`pypi`, and PyPI project `glance-grove`.
 
 CI explicitly dispatches the publisher after creating the GitHub release:
 GitHub does not trigger another release workflow for a release created with

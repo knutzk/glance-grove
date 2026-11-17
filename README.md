@@ -17,7 +17,8 @@ credentials, then add your group's real data with authorised CERN access.
 
 [Try the demo locally](#install-and-try-without-credentials) ·
 [Browse the demo](https://knutzk.github.io/glance-grove/examples/demo/) ·
-[Documentation](https://knutzk.github.io/glance-grove/docs/)
+[Documentation](https://knutzk.github.io/glance-grove/docs/) ·
+[PyPI](https://pypi.org/project/glance-grove/)
 
 ## Explore the pages
 
